@@ -1,0 +1,24 @@
+DEFINISI VARIABEL TARGET
+
+Nama variabel target:
+Y_Final_PKM
+
+Definisi:
+Y_Final_PKM merupakan variabel target biner yang menunjukkan status ketersediaan obat esensial di Puskesmas.
+
+Kriteria pembentukan:
+- Setiap Puskesmas dinilai berdasarkan total kelompok obat esensial yang tersedia.
+- Total kelompok obat esensial yang digunakan adalah 40 kelompok obat.
+- Ambang batas ketersediaan obat esensial ditetapkan sebesar 80%.
+- 80% dari 40 kelompok obat = 32 kelompok obat.
+
+Kategori:
+- Y_Final_PKM = 1 apabila Puskesmas memiliki minimal 32 kelompok obat esensial tersedia atau setara dengan ≥80%.
+- Y_Final_PKM = 0 apabila Puskesmas memiliki kurang dari 32 kelompok obat esensial tersedia atau setara dengan <80%.
+
+Distribusi target pada data final:
+- Y=0: 5777 Puskesmas atau 63.76%
+- Y=1: 3284 Puskesmas atau 36.24%
+
+Model final:
+Random Forest Tuned dengan threshold optimal 0.37.

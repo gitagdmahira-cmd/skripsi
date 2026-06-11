@@ -1,0 +1,47 @@
+﻿nama_variabel,deskripsi_variabel,jenis_penggunaan,digunakan_dalam_model
+B3R3,Status rawat inap Puskesmas,Ordinal/Biner/Passthrough,Ya
+B3R10,Status pengelolaan keuangan Puskesmas,Ordinal/Biner/Passthrough,Ya
+B3R9B,Status akreditasi Puskesmas,Ordinal/Biner/Passthrough,Ya
+B3R6,Karakteristik wilayah Puskesmas,Nominal/One-hot encoding,Ya
+B14R2,Bendahara dana kapitasi JKN,Ordinal/Biner/Passthrough,Ya
+B14R23,Jumlah peserta PBI,Numerik,Ya
+B14R15BTERSEDIA,Ketersediaan apoteker,Ordinal/Biner/Passthrough,Ya
+B1282R6,Penanggung jawab ketersediaan obat,Ordinal/Biner/Passthrough,Ya
+B8R2K3N,Jumlah SDM atau pedoman pengelolaan obat,Numerik,Ya
+B8R2K4N,Pedoman pengelolaan obat,Ordinal/Biner/Passthrough,Ya
+B4R10B,Pelayanan rawat darurat,Ordinal/Biner/Passthrough,Ya
+B121R1,Perencanaan kebutuhan obat,Ordinal/Biner/Passthrough,Ya
+B121R4,Metode penyusunan RKO,Nominal/One-hot encoding,Ya
+B121R5,Sistem pencatatan dan pelaporan obat,Ordinal/Biner/Passthrough,Ya
+B121R7,Ketersediaan LPLPO,Ordinal/Biner/Passthrough,Ya
+B121R10,Frekuensi LPLPO,Ordinal/Biner/Passthrough,Ya
+B122R3,Mekanisme pembelian obat kapitasi,Nominal/One-hot encoding,Ya
+B1282R1,Penerimaan obat dari Dinkes,Ordinal/Biner/Passthrough,Ya
+B1282R2,Frekuensi penerimaan obat dari Dinkes,Numerik,Ya
+B1282R3,Kecukupan obat dari Dinkes,Ordinal/Biner/Passthrough,Ya
+B1282R4,Jumlah atau frekuensi obat diterima dari Dinkes,Numerik,Ya
+B1282R5,Sumber obat dari Dinkes,Ordinal/Biner/Passthrough,Ya
+B122R11,Ketersediaan gudang obat,Ordinal/Biner/Passthrough,Ya
+B122R1,Sumber pengadaan obat,Nominal/One-hot encoding,Ya
+B4R3,Kapasitas pelayanan Puskesmas,Ordinal/Biner/Passthrough,Ya
+B51R1B,Pendidikan kepala Puskesmas,Nominal/One-hot encoding,Ya
+B3R22E,Akses internet Puskesmas,Ordinal/Biner/Passthrough,Ya
+B3R24,Ketersediaan transportasi umum,Ordinal/Biner/Passthrough,Ya
+B3R40,Ketersediaan internet,Ordinal/Biner/Passthrough,Ya
+B51R2DK2,Penanggung jawab UKP/kefarmasian/laboratorium,Ordinal/Biner/Passthrough,Ya
+B14R16,Penerapan KBK di Puskesmas,Ordinal/Biner/Passthrough,Ya
+B14R7A,Penggunaan dana kapitasi,Nominal/One-hot encoding,Ya
+B126R4A,Monitoring pengelolaan obat,Ordinal/Biner/Passthrough,Ya
+X_Pengiriman_RKO,Pengiriman RKO,Nominal/One-hot encoding,Ya
+X_Metode_Pembelian_Kapitasi,Metode pembelian obat kapitasi,Nominal/One-hot encoding,Ya
+X_Persentase_Pemenuhan_EPurchasing,Persentase pemenuhan e-purchasing,Ordinal/Biner/Passthrough,Ya
+X_Sumber_Dana_Umum,Sumber dana umum,Ordinal/Biner/Passthrough,Ya
+X_Kondisi_Ruang_Farmasi,Kondisi ruang farmasi,Ordinal/Biner/Passthrough,Ya
+X_Kualitas_Gudang,Kualitas gudang obat,Ordinal/Biner/Passthrough,Ya
+X_Sumber_Dana_BPJS,Sumber dana BPJS,Nominal/One-hot encoding,Ya
+X_Proporsi_Kapitasi,Proporsi dana kapitasi,Ordinal/Biner/Passthrough,Ya
+X_Sistem_Pencatatan,Sistem pencatatan obat,Nominal/One-hot encoding,Ya
+X_Kerusakan_Obat,Kerusakan atau kedaluwarsa obat,Nominal/One-hot encoding,Ya
+X_Kepemilikan_Kendaraan,Kepemilikan kendaraan operasional,Nominal/One-hot encoding,Ya
+X_Intensitas_Kapitasi,Intensitas penggunaan dana kapitasi,Ordinal/Biner/Passthrough,Ya
+Total_Kelompok_Obat_Dinkes,Total kelompok obat tersedia di Dinas Kesehatan,Numerik,Ya

@@ -1,0 +1,82 @@
+feature_readable,mean_abs_shap,rank
+Total Kelompok Obat Tersedia di Dinkes,0.06417062589038167,1
+Status Rawat Inap Puskesmas,0.029241051443259246,2
+Status Akreditasi Puskesmas,0.024739073000728574,3
+Status Pengelolaan Keuangan Puskesmas,0.014785574309185898,4
+Jumlah Peserta PBI,0.013757971029962094,5
+Sumber Dana BPJS: 3,0.012879596037253508,6
+Kualitas Gudang Obat,0.011597848409107405,7
+Jumlah/Frekuensi Obat Diterima dari Dinkes,0.011438184863808378,8
+Akses Internet Puskesmas,0.01138087380227668,9
+Sumber Dana BPJS: 2,0.010591203574526028,10
+Ketersediaan Apoteker,0.010341159788435195,11
+Kapasitas Pelayanan Puskesmas,0.009708956311627522,12
+Sumber Dana Umum,0.008431580113345516,13
+Penerapan KBK di Puskesmas,0.007483762045663934,14
+Monitoring Pengelolaan Obat,0.007467857960401875,15
+Penanggung Jawab Ketersediaan Obat,0.007144271253661859,16
+Intensitas Penggunaan Dana Kapitasi,0.007083934671708276,17
+Kerusakan/Kedaluwarsa Obat: 3,0.006954793079492054,18
+Ketersediaan LPLPO,0.00693391711187681,19
+Kerusakan/Kedaluwarsa Obat: 1,0.006608121870591643,20
+Pemenuhan Obat melalui E-Purchasing,0.005907985623048407,21
+Metode Pembelian Obat Kapitasi: 2,0.005561152457551653,22
+Metode Penyusunan RKO: 3,0.005347180698069428,23
+Sistem Pencatatan Obat: 2,0.004958258393112059,24
+Sistem Pencatatan Obat: 3,0.004942485669481366,25
+Sistem Pencatatan dan Pelaporan Obat,0.004756400391504895,26
+Penggunaan Dana Kapitasi: 2,0.004622633265538667,27
+Pedoman Pengelolaan Obat,0.004616494808300678,28
+Mekanisme Pembelian Obat Kapitasi: 1,0.004466323754559689,29
+Penggunaan Dana Kapitasi: 1,0.00430288938634494,30
+Proporsi Dana Kapitasi untuk Obat dan Operasional,0.004187686512869592,31
+Metode Penyusunan RKO: 1,0.004171367110063925,32
+Kepemilikan Kendaraan Operasional: 3,0.0037157444980248718,33
+Frekuensi Penerimaan Obat dari Dinkes,0.003416164134059297,34
+Mekanisme Pembelian Obat Kapitasi: 2,0.002675702630500081,35
+Penerimaan Obat dari Dinkes,0.0026159791071455525,36
+Ketersediaan Transportasi Umum,0.002610747817614667,37
+Jumlah SDM/Pedoman Pengelolaan Obat,0.0025718613815237305,38
+Sumber Obat dari Dinkes,0.0023827147880708553,39
+Metode Pembelian Obat Kapitasi: 0,0.0021592846498239356,40
+Karakteristik Wilayah Puskesmas: Perdesaan,0.0021423895499334436,41
+Metode Pembelian Obat Kapitasi: 1,0.0020722216056999515,42
+Sistem Pencatatan Obat: 1,0.002048229614956661,43
+Sumber Pengadaan Obat: 0,0.002021011057695146,44
+Sumber Pengadaan Obat: 1,0.0018629505676875046,45
+Metode Pembelian Obat Kapitasi: -1,0.001851042109787076,46
+Karakteristik Wilayah Puskesmas: Perkotaan,0.0017469172335568633,47
+Kerusakan/Kedaluwarsa Obat: 0,0.0016740494811923981,48
+Bendahara Dana Kapitasi JKN,0.0015251130677252402,49
+Penanggung Jawab UKP/Kefarmasian/Laboratorium,0.0014082869407435153,50
+Ketersediaan Internet,0.00135140915327585,51
+Pengiriman RKO: 1,0.0012632089085373895,52
+Karakteristik Wilayah Puskesmas: Tidak Ada SK,0.0011713289106146157,53
+Kondisi Ruang Farmasi,0.001130529569031203,54
+Pendidikan Kepala Puskesmas: 1,0.0011125592429906872,55
+Sistem Pencatatan Obat: 0,0.0010543521641503651,56
+Sumber Pengadaan Obat: 2,0.0010236630658154136,57
+Karakteristik Wilayah Puskesmas: Terpencil/Sangat Terpencil,0.0009957978108752431,58
+Frekuensi LPLPO,0.0008834942704131696,59
+Mekanisme Pembelian Obat Kapitasi: 0,0.0007574545208221095,60
+Pengiriman RKO: 3,0.0007252330946824044,61
+Kepemilikan Kendaraan Operasional: 2,0.0006656919453378619,62
+Pendidikan Kepala Puskesmas: 4,0.0006519746296440746,63
+Kerusakan/Kedaluwarsa Obat: 2,0.0005450282389859726,64
+Pelayanan Rawat Darurat,0.00048414246681797524,65
+Kepemilikan Kendaraan Operasional: 1,0.00038576314849088133,66
+Pengiriman RKO: 0,0.00038062487327632433,67
+Pengiriman RKO: 2,0.0002357948435578272,68
+Perencanaan Kebutuhan Obat,0.00023490060073762148,69
+Kepemilikan Kendaraan Operasional: 0,0.00022715282296475634,70
+Metode Penyusunan RKO: 0,0.00022493854565711738,71
+Mekanisme Pembelian Obat Kapitasi: 3,0.0002209546997827946,72
+Kecukupan Obat dari Dinkes,0.00021945732770719875,73
+Pendidikan Kepala Puskesmas: 5,0.0002117303652291594,74
+Ketersediaan Gudang Obat,0.00016807969776942014,75
+Metode Penyusunan RKO: 2,0.00014308854814275778,76
+Pendidikan Kepala Puskesmas: 2,0.00011074178118728566,77
+Sumber Dana BPJS: 0,0.00010529301191536732,78
+Sumber Dana BPJS: 1,2.17826372968888e-05,79
+Pendidikan Kepala Puskesmas: 0,3.42066336849429e-06,80
+Pendidikan Kepala Puskesmas: 3,1.622410572589918e-06,81

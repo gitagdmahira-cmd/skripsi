@@ -1,0 +1,41 @@
+RINGKASAN MODEL FINAL
+
+Model final:
+Random Forest Tuned + Optimized Threshold
+
+Parameter model:
+- n_estimators: 1000
+- min_samples_split: 2
+- min_samples_leaf: 2
+- max_features: sqrt
+- max_depth: None
+- bootstrap: False
+
+Threshold final:
+0.37
+
+Jumlah data:
+- Total data final: 9061
+- Jumlah fitur model: 46
+- Data latih: 7248
+- Data uji: 1813
+
+Distribusi target:
+- Y=0 seluruh data: 5777
+- Y=1 seluruh data: 3284
+
+Metrik final:
+- Accuracy: 0.6426
+- Precision: 0.5049
+- Recall: 0.7047
+- Specificity: 0.6073
+- F1 Score: 0.5883
+- MCC: 0.3000
+- AUROC: 0.7222
+- AUPRC: 0.5701
+
+Confusion matrix final:
+- TN: 702
+- FP: 454
+- FN: 194
+- TP: 463

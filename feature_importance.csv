@@ -1,0 +1,82 @@
+﻿feature,feature_readable,importance
+jalur_num__B14R23,Jumlah peserta PBI,0.08975343999453876
+jalur_num__Total_Kelompok_Obat_Dinkes,Total kelompok obat tersedia di Dinas Kesehatan,0.08755887732709196
+remainder__B3R9B,Status akreditasi Puskesmas,0.04063737561905904
+jalur_num__B1282R4,Jumlah atau frekuensi obat diterima dari Dinkes,0.03764312982159782
+remainder__X_Intensitas_Kapitasi,Intensitas penggunaan dana kapitasi,0.036160855186622355
+remainder__X_Persentase_Pemenuhan_EPurchasing,Persentase pemenuhan e-purchasing,0.027803831612980816
+remainder__X_Sumber_Dana_Umum,Sumber dana umum,0.02732095644015533
+remainder__B4R3,Kapasitas pelayanan Puskesmas,0.0251267494859598
+remainder__B8R2K4N,Pedoman pengelolaan obat,0.022958096964135886
+remainder__B3R3,Status rawat inap Puskesmas,0.02257025754152269
+remainder__X_Kualitas_Gudang,Kualitas gudang obat,0.022411722676154197
+jalur_num__B1282R2,Frekuensi penerimaan obat dari Dinkes,0.021047852219710738
+jalur_num__B8R2K3N,Jumlah SDM atau pedoman pengelolaan obat,0.02030786086081499
+remainder__B3R10,Status pengelolaan keuangan Puskesmas,0.018076030904906015
+remainder__B14R15BTERSEDIA,Ketersediaan apoteker,0.016870954278608172
+remainder__B121R5,Sistem pencatatan dan pelaporan obat,0.016278494652870498
+jalur_nom__B122R1_1,Sumber pengadaan obat: 1,0.014159126635105608
+jalur_nom__B3R6_2,Karakteristik wilayah Puskesmas: 2,0.014085851913547411
+jalur_nom__X_Sistem_Pencatatan_1,Sistem pencatatan obat: 1,0.014057471699169941
+jalur_nom__X_Kerusakan_Obat_1,Kerusakan atau kedaluwarsa obat: 1,0.014027717316898522
+remainder__B1282R5,Sumber obat dari Dinkes,0.013762328315858857
+jalur_nom__B122R3_2,Mekanisme pembelian obat kapitasi: 2,0.013352186598983436
+jalur_nom__B122R1_0,Sumber pengadaan obat: 0,0.0130192284417733
+jalur_nom__X_Sumber_Dana_BPJS_3,Sumber dana BPJS: 3,0.012840903895458756
+jalur_nom__X_Metode_Pembelian_Kapitasi_1,Metode pembelian obat kapitasi: 1,0.01282384820872933
+jalur_nom__B122R3_1,Mekanisme pembelian obat kapitasi: 1,0.012768451893822292
+remainder__B3R22E,Akses internet Puskesmas,0.012486529176472796
+remainder__B121R7,Ketersediaan LPLPO,0.011859448667846485
+jalur_nom__B3R6_3,Karakteristik wilayah Puskesmas: 3,0.011507348908927887
+jalur_nom__B121R4_3,Metode penyusunan RKO: 3,0.011261165653440677
+jalur_nom__X_Kerusakan_Obat_3,Kerusakan atau kedaluwarsa obat: 3,0.011226494147430486
+jalur_nom__X_Sistem_Pencatatan_2,Sistem pencatatan obat: 2,0.011221116647827179
+remainder__B126R4A,Monitoring pengelolaan obat,0.01118399727674402
+jalur_nom__B121R4_1,Metode penyusunan RKO: 1,0.011152396653811339
+remainder__B1282R6,Penanggung jawab ketersediaan obat,0.010942697274421596
+jalur_nom__X_Sumber_Dana_BPJS_2,Sumber dana BPJS: 2,0.01054292206679464
+remainder__B1282R1,Penerimaan obat dari Dinkes,0.010369936288632059
+jalur_nom__B122R1_2,Sumber pengadaan obat: 2,0.010077870740860844
+jalur_nom__X_Sistem_Pencatatan_3,Sistem pencatatan obat: 3,0.009923985538187212
+jalur_nom__X_Pengiriman_RKO_1,Pengiriman RKO: 1,0.009344533635227066
+jalur_nom__X_Metode_Pembelian_Kapitasi_2,Metode pembelian obat kapitasi: 2,0.009255600897039253
+remainder__B14R16,Penerapan KBK di Puskesmas,0.009203387037104101
+remainder__B51R2DK2,Penanggung jawab UKP/kefarmasian/laboratorium,0.0090272966179818
+remainder__X_Proporsi_Kapitasi,Proporsi dana kapitasi,0.008365182301414637
+remainder__B3R40,Ketersediaan internet,0.008261785939010335
+jalur_nom__X_Metode_Pembelian_Kapitasi_-1,Metode pembelian obat kapitasi: -1,0.008231676728407243
+jalur_nom__X_Kerusakan_Obat_0,Kerusakan atau kedaluwarsa obat: 0,0.0076983152502772215
+jalur_nom__B3R6_0,Karakteristik wilayah Puskesmas: 0,0.0075268368517140815
+jalur_nom__B3R6_1,Karakteristik wilayah Puskesmas: 1,0.007499524476553366
+remainder__B3R24,Ketersediaan transportasi umum,0.007382570209678459
+remainder__B121R10,Frekuensi LPLPO,0.007213927957688513
+jalur_nom__X_Pengiriman_RKO_3,Pengiriman RKO: 3,0.007009100281004129
+jalur_nom__X_Metode_Pembelian_Kapitasi_0,Metode pembelian obat kapitasi: 0,0.006920608442630964
+remainder__X_Kondisi_Ruang_Farmasi,Kondisi ruang farmasi,0.006892117588122241
+jalur_nom__B51R1B_1,Pendidikan kepala Puskesmas: 1,0.006354841178730699
+remainder__B14R2,Bendahara dana kapitasi JKN,0.005982126048469655
+jalur_nom__X_Kepemilikan_Kendaraan_3,Kepemilikan kendaraan operasional: 3,0.005919304130370137
+jalur_nom__B14R7A_2,Penggunaan dana kapitasi: 2,0.005765575634451729
+jalur_nom__B14R7A_1,Penggunaan dana kapitasi: 1,0.005623234541258754
+jalur_nom__X_Sistem_Pencatatan_0,Sistem pencatatan obat: 0,0.005422954475708593
+jalur_nom__B122R3_0,Mekanisme pembelian obat kapitasi: 0,0.005245334268822253
+jalur_nom__B51R1B_4,Pendidikan kepala Puskesmas: 4,0.004108579807308016
+remainder__B4R10B,Pelayanan rawat darurat,0.003050494694043579
+jalur_nom__X_Kepemilikan_Kendaraan_2,Kepemilikan kendaraan operasional: 2,0.0029937004329843643
+jalur_nom__X_Pengiriman_RKO_0,Pengiriman RKO: 0,0.00249852461073209
+jalur_nom__X_Kepemilikan_Kendaraan_1,Kepemilikan kendaraan operasional: 1,0.002087085588503247
+jalur_nom__X_Pengiriman_RKO_2,Pengiriman RKO: 2,0.0018805614068656295
+jalur_nom__B121R4_0,Metode penyusunan RKO: 0,0.0015872059326337738
+remainder__B121R1,Perencanaan kebutuhan obat,0.0015702568769682627
+jalur_nom__X_Kerusakan_Obat_2,Kerusakan atau kedaluwarsa obat: 2,0.001509368083333388
+jalur_nom__B51R1B_5,Pendidikan kepala Puskesmas: 5,0.0014944776633163729
+remainder__B1282R3,Kecukupan obat dari Dinkes,0.0011177206178507404
+jalur_nom__B122R3_3,Mekanisme pembelian obat kapitasi: 3,0.0011062342876614673
+jalur_nom__B51R1B_2,Pendidikan kepala Puskesmas: 2,0.0009314431142414129
+remainder__B122R11,Ketersediaan gudang obat,0.000809514922460766
+jalur_nom__B121R4_2,Metode penyusunan RKO: 2,0.0008070856177999127
+jalur_nom__X_Sumber_Dana_BPJS_0,Sumber dana BPJS: 0,0.0005517453321609273
+jalur_nom__X_Kepemilikan_Kendaraan_0,Kepemilikan kendaraan operasional: 0,0.00043868790092056314
+jalur_nom__X_Sumber_Dana_BPJS_1,Sumber dana BPJS: 1,0.00010593306118185147
+jalur_nom__B51R1B_0,Pendidikan kepala Puskesmas: 0,1.9302476916439912e-05
+jalur_nom__B51R1B_3,Pendidikan kepala Puskesmas: 3,6.733532978182605e-06
